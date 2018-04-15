@@ -1,0 +1,25 @@
+{
+  "name": "url-shortner",
+  "version": "1.0.0",
+  "description": "shortens url for fun and profit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nitin Pradeep Kumar",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bluebird": "^3.5.1",
+    "commander": "^2.14.1",
+    "json2xls": "^0.1.2",
+    "winston": "^2.4.0",
+    "xlsx": "^0.12.2"
+  },
+  "devDependencies": {
+    "eslint": "^4.18.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-config-google": "^0.9.1",
+    "eslint-plugin-import": "^2.9.0"
+  }
+}
